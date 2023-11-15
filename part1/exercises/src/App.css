@@ -41,3 +41,44 @@
   display:flex;
 justify-content:space-between;
 }
+
+div.App .head {
+  text-align: left;
+  text-decoration: underline;
+}
+
+div.App .choreItems {
+  text-align:left;
+  list-style:inside;
+  color: red;
+  font-size: 2rem;
+}
+
+.similarComponents img {
+  flex-direction:row;
+  width: 25%;
+  height: auto;
+  margin-right: 1.1rem;
+}
+
+.similarComponents #movieHead{
+  display:flex;
+  flex-direction: row;
+  width:10px;
+  white-space: nowrap;
+}
+
+.similarComponents .movieItems{
+  white-space: nowrap;
+  background-color: rgba(255,0,0, 0.2);
+}
+
+.similarComponents .movieItems li{
+  color:purple;
+}
+
+div.similarComponents .hobbyHead{
+  text-align: right;
+  white-space: nowrap;
+  font-size: 1rem;
+}
