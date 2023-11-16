@@ -1,0 +1,42 @@
+{ "Aspirations":[
+{
+    "id":1,
+    "action": "Tour the world",
+    "when": "5 years",
+    "photoUrl": "https://st.depositphotos.com/1052036/1991/v/950/depositphotos_19910721-stock-illustration-world-tour.jpg",
+    "alt": "Plane traveling world"
+ },
+
+ {
+    "id":2,
+    "action": "Perform on stage",
+    "when": "5 years",
+    "photoUrl": "https://i.ytimg.com/vi/wbjzOJyrSzo/maxresdefault.jpg",
+    "alt": "Artist standing on stage in front of thousands of people"
+ },
+
+ {
+    "id":3,
+    "action": "Have a platinum selling album",
+    "when": "5 years",
+    "photoUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t1.6435-9/61586277_2339503832776953_399122643573276672_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=RFD-HR3I-e4AX9Ok5_Q&_nc_ht=scontent-ord5-1.xx&oh=00_AfC_1HjAqWzJzAHYwnFTgbrtWyP1JgAguduT5EMOHRwyXg&oe=657DA441",
+    "alt": "Artist walking down the stairs with platinum plaques on wall beside him"
+ },
+
+ {
+    "id":4,
+    "action": "Earn a million dollars",
+    "when": "In 5 years",
+    "photoUrl": "https://rootnote.co/wp-content/uploads/2021/02/Screen-Shot-2020-12-29-at-11.20.29-AM.png",
+    "alt": "Artist showing monthly earnings from streaming royalties"
+ },
+
+ {
+    "id":5,
+    "action": "Buy a Lexus LFA",
+    "when": "10 years",
+    "photoUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F03%2F2012-lexus-lfa-nurburgring-package-orange-japanese-supercar-bring-a-trailer-1-6-million-usd-1.jpg?cbr=1&q=90",
+    "alt": "Artist walking down the stairs with platinum plaques on wall beside him"
+ }
+]
+}
