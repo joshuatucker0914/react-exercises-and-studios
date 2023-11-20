@@ -1,17 +1,22 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Classic Club Sandwich",
+     "author": "Beth Pierce",
+     "description": "This classic New York club sandwich recipe is layered with smoky ham, roasted turkey, smoked bacon, crisp lettuce, juicy tomatoes, cheddar cheese, and mayonnaise spread on every slice of this triple toasted bread extravaganza.  My family and I just love this tasty sandwich and I think I even have my picky son hooked on them.",
+     "website": "https://www.smalltownwoman.com/classic-club-sandwich/",
+     "recipeImage": "https://www.smalltownwoman.com/wp-content/uploads/2021/06/Club-Sandwich-4x5-3-1024x1536.webp",
+     "authorImage": "https://secure.gravatar.com/avatar/effc1f751c8206394fb8b67f8c481c0e?s=500&d=mm&r=g",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+      "12 slices bread toasted",
+      "2 tablespoons butter", 
+      "4 tablespoons mayonnaise", 
+      "8 ounces thin sliced deli turkey breast",
+      "1 large tomato thinly sliced", 
+      "salt",
+      "4 slices cheddar deli style", 
+      "1/2 lb. thin sliced ham", 
+      "8 slices bacon crispy cooked", 
+      "4 slices leaf lettuce or iceberg lettuce"
      ]
    }
  ]
